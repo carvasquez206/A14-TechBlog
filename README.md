@@ -1,6 +1,6 @@
 # TechBlog_MVC
 
-## Your Task
+## Description
 
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
@@ -68,7 +68,7 @@ The following animation demonstrates the application functionality:
 - [express-session](https://www.npmjs.com/package/express-session) package stores the session data on the client in a cookie. When you are idle on the site for more than a set time, the cookie will expire and you will be required to log in again to start a new session. This is the default behavior and you do not have to do anything to your application other than implement the npm package.
 
 ## Git Repository Link
-* f
+* https://github.com/carvasquez206/TechBlog_MVC
 
 ## Github Deployed Application Link
-* The
+* https://carvasquez206.github.io/TechBlog_MVC/
